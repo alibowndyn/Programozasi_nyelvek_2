@@ -1,0 +1,10 @@
+ZH/
+
+
+### VisualStudioCode ###
+.vscode/*
+
+
+### Java ###
+# Compiled class file
+*.class
