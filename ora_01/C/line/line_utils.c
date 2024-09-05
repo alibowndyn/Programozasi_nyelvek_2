@@ -11,7 +11,6 @@ void line_chr(int n, char chr)
     puts("");
 }
 
-
 void line(int n)
 {
     line_chr(n, '-');

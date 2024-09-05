@@ -2,7 +2,6 @@
 #include <limits.h>
 
 
-
 int main()
 {
     puts("Data type              Size in bytes\n");
@@ -60,9 +59,11 @@ int main()
 
     puts("");
     printf("float                        %ld\n"
-           "double   t                    %ld\n"
+           "double                       %ld\n"
            "long double                  %ld\n",
            sizeof(float), sizeof(double), sizeof(long double));
 
+
     return 0;
 }
+

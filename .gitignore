@@ -1,10 +1,11 @@
+RESOURCES/
 ZH/
 
 
-### VisualStudioCode ###
+### Visual Studio Code ###
 .vscode/*
 
 
 ### Java ###
-# Compiled class file
+# Compiled class files
 *.class

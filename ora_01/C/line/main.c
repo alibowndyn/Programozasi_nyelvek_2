@@ -6,7 +6,6 @@
 int main()
 {
     line(10);
-
     line_chr(10, '#');
 
 
