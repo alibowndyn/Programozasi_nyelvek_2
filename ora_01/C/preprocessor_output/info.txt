@@ -1,3 +1,3 @@
 Use this command:
 
-    gcc -E main.c header.c > main.i
+    gcc -E main.c utils.c > main.i
