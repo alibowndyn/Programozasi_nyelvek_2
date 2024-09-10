@@ -1,0 +1,3 @@
+Use this command:
+
+    gcc -E main.c header.c > main.i
