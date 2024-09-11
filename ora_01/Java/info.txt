@@ -1,0 +1,8 @@
+Compile & Run:
+
+    $ javac HelloWorld.java
+    $ java HelloWorld
+
+    -- OR --
+
+    $ javac HelloWorld.java && java HelloWorld
